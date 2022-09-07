@@ -37,8 +37,8 @@
 		"sideBarTitle.foreground": "#0a121c",
 		"tab.activeBackground": "#eaf5fe",
 		"tab.inactiveBackground": "#cfe8ff",
-		"statusBar.background": "0b5cab",
-		"statusBar.debuggingBackground": "e4a201"
+		"statusBar.background": "#0b5cab",
+		"statusBar.debuggingBackground": "#fe9339"
 	},
 	"tokenColors": [
 		{

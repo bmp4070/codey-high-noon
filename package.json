@@ -3,7 +3,7 @@
     "name": "blueberry-cider",
     "displayName": "Cider Blues",
     "description": "Light theme configured for devs who like blue",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "icon": "images/icon.png",
     "license": "BSD-3-Clause",
     "qna": false,

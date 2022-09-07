@@ -1,17 +1,18 @@
 {
-	"name": "Codey High Noon",
+	"name": "Core IDE Blue",
 	"type": "light",
 	"colors": {
-		"activityBar.background": "#0a121c",
+		"activityBar.background": "#0d9dda",
 		"activityBar.border": "#1c304a",
 		"activityBarBadge.background": "#007acc",
 		"contrastActiveBorder": "#eda323",
+		"disabledForeground": "#fef1ee",
 		"editor.background": "#fffff7",
 		"editor.foreground": "#0a121c",
 		"editor.lineHighlightBorder": "#e5e5e0",
 		"editor.inactiveSelectionBackground": "#cccbc6",
 		"editor.selectionBackground" : "#cccbc6",
-		"editorGroupHeader.tabsBackground": "#bfbfbf",
+		"editorGroupHeader.tabsBackground": "#c9c9c9",
 		"editorIndentGuide.activeBackground": "#707070",
 		"editorIndentGuide.background": "#a6a6a6",
 		"editorLineNumber.activeForeground": "#03A678",
@@ -22,7 +23,7 @@
 		"list.hoverBackground": "#eda323",
 		"list.inactiveSelectionForeground": "#6C7076",
 		"list.inactiveSelectionBackground": "#F9F9F9",
-		"menu.background": "#d7d7d7",
+		"menu.background": "#032d60",
 		"menu.foreground": "#cccccc",
 		"menu.selectionBackground":"#cccbc6",
 		"notifications.background": "#E5E5E0",
@@ -34,8 +35,10 @@
 		"sideBar.border": "#d7d7d7",
 		"sideBar.foreground": "#0a121c",
 		"sideBarTitle.foreground": "#0a121c",
-		"tab.activeBackground": "#efefef",
-		"tab.inactiveBackground": "#d7d7d7"
+		"tab.activeBackground": "#eaf5fe",
+		"tab.inactiveBackground": "#cfe8ff",
+		"statusBar.background": "0b5cab",
+		"statusBar.debuggingBackground": "e4a201"
 	},
 	"tokenColors": [
 		{

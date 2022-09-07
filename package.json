@@ -1,7 +1,7 @@
 {
-    "publisher": "salesforce",
-    "name": "codey-high-noon",
-    "displayName": "Codey High Noon",
+    "publisher": "sf-core-ides",
+    "name": "blueberry-cider",
+    "displayName": "Cider Blues",
     "description": "Light theme configured for accessibility and Salesforce development",
     "version": "1.0.1",
     "icon": "images/icon.png",
@@ -18,7 +18,7 @@
         "theme": "light"
     },
     "engines": {
-        "vscode": "^1.30.0"
+        "vscode": "^1.67.0"
     },
     "categories": [
         "Themes"
@@ -26,9 +26,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Codey High Noon",
+                "label": "Cider Blues",
                 "uiTheme": "vs",
-                "path": "./themes/CodeyHighNoon.json"
+                "path": "./themes/CoreIDEBlues.json"
             }
         ]
     },
@@ -36,6 +36,6 @@
         "vscode:package": "vsce package"
     },
     "devDependencies": {
-        "vsce": "^1.62.0"
+        "vsce": "^1.103.1"
     }
 }

@@ -3,7 +3,7 @@
     "name": "blueberry-cider",
     "displayName": "Cider Blues",
     "description": "Light theme configured for devs who like blue",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "icon": "images/icon.png",
     "license": "BSD-3-Clause",
     "qna": false,
@@ -29,6 +29,13 @@
                 "label": "Cider Blues",
                 "uiTheme": "vs",
                 "path": "./themes/CoreIDEBlues.json"
+            }
+        ],
+        "productIconThemes": [
+            {
+                    "id": "vscode-v1-icons",
+                    "label": "Cider 1.0 Icons",
+                    "path": "./themes/cider-icon-theme.json"
             }
         ]
     },

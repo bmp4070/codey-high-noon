@@ -1,6 +1,6 @@
 ## Cider Blues Theme for VS Code
 
-![Cider Blues Theme in Action](https://raw.githubusercontent.com/bmp4070/main/images/ThemeAction.png)
+![Cider Blues Theme in Action](https://raw.githubusercontent.com/bmp4070/codey-high-noon/main/images/ThemeAction.png)
 
 A custom theme for VS Code, designed for Salesforce development. Built to be accessible and boost developer productivity.
 
